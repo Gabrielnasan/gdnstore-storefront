@@ -1,0 +1,45 @@
+# GDN Store
+
+> Loja brasileira de tecnologia premium: notebooks, smartphones, tablets, games, áudio, drones, câmeras e acessórios, com atendimento humano via WhatsApp.
+
+Pagamento em até 6x sem juros no cartão, PIX e boleto. Envio com rastreio para todo o Brasil; frete calculado no checkout.
+
+## Pages
+
+- [Home](/): Destaques, novidades e categorias da loja.
+- [Ofertas](/ofertas): Produtos com condições especiais.
+- [Buscar](/buscar): Busca de produtos por nome, marca ou categoria.
+- [Sobre nós](/sobre-nos): História, missão e valores da GDN Store.
+- [Fale conosco](/fale-conosco): Canais de atendimento.
+- [Perguntas frequentes](/perguntas-frequentes): Dúvidas sobre pagamento, entrega e trocas.
+
+## Categories
+
+- [Computadores](/categoria/computadores): Notebooks e computadores.
+- [Smartphones](/categoria/smartphones): Smartphones de última geração.
+- [Tablets](/categoria/tablets): Tablets para trabalho e estudo.
+- [Smartwatch](/categoria/smartwatch): Relógios inteligentes.
+- [Games](/categoria/games): Consoles, jogos e acessórios gamer.
+- [Áudio](/categoria/audio): Fones e caixas de som.
+- [Drones](/categoria/drones): Drones profissionais e para hobby.
+- [Câmeras](/categoria/cameras): Câmeras e equipamentos de vídeo.
+- [Acessórios](/categoria/acessorios): Acessórios de tecnologia.
+
+## Brands
+
+- [Apple](/marca/apple): iPhone, MacBook, iPad, AirPods e Apple Watch.
+- [Sony](/marca/sony): PlayStation, fones e câmeras.
+- [Microsoft](/marca/microsoft): Xbox e Surface.
+- [DJI](/marca/dji): Drones e estabilizadores.
+- [Dell](/marca/dell): Notebooks e monitores.
+- [Xiaomi](/marca/xiaomi): Smartphones e dispositivos.
+- [ASUS ROG](/marca/asus-rog): Linha gamer ASUS.
+- [Garmin](/marca/garmin): Smartwatches esportivos.
+
+## Optional
+
+- [Política de entrega](/politica-de-entrega): Prazos, postagem e rastreamento.
+- [Trocas e devoluções](/trocas-e-devolucoes): Como solicitar troca ou devolução.
+- [Garantia](/garantia): Cobertura de garantia dos produtos.
+- [Política de privacidade](/politica-de-privacidade): Tratamento de dados e LGPD.
+- [Termos de uso](/termos-de-uso): Condições de uso do site.

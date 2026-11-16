@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /minha-conta
+Disallow: /account
+Disallow: /auth
+
+Sitemap: https://gdnstore.com.br/sitemap.xml
