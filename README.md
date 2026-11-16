@@ -176,7 +176,7 @@ Este repositório contém o código-fonte do storefront e das Edge Functions, pu
 
 - É uma cópia sem o histórico de commits do repositório original, que continua privado.
 - Nenhum arquivo `.env` é versionado; a configuração vem de variáveis de ambiente (veja `.env.example`).
-- CNPJ, telefones, endereço, domínio da loja no Shopify, identificador do projeto Supabase e ID do pixel foram trocados por valores de exemplo.
+- Dados cadastrais e de contato da loja, domínio no Shopify, identificador do projeto Supabase e ID do pixel foram trocados por valores de exemplo.
 - As imagens de banners e categorias em `public/images` são substitutas; as originais ficavam em um CDN externo.
 
 ---
