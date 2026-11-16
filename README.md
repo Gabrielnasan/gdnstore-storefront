@@ -26,7 +26,7 @@ A **GDN Store** foi uma loja de tecnologia real, especializada em notebooks, sma
 
 Em vez de usar um tema pronto de plataforma, o projeto adotou **arquitetura headless**: a vitrine é uma aplicação própria em React com SSR, enquanto o **Shopify** cuida do que faz melhor — catálogo, estoque, checkout seguro e gestão de pedidos. Entre as duas pontas, uma camada de **Supabase Edge Functions** implementa autenticação de clientes, avaliações verificadas e moderação de conteúdo.
 
-O resultado é uma experiência de compra com identidade visual 100% própria, performance de edge e a segurança de pagamento de uma das maiores plataformas de commerce do mundo.
+A vitrine é renderizada na edge (Cloudflare Workers) e o checkout fica inteiramente na Shopify, de modo que a aplicação não lida com dados de pagamento.
 
 ## Arquitetura
 
